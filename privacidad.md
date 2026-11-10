@@ -21,6 +21,7 @@ Tu diario de comidas, tus fotos, tu peso, tus pasos, tu plan de calorías, tu pe
 | Un identificador aleatorio de instalación | Controlar el cupo de análisis gratuitos y diarios, y evitar abusos | Nuestro servidor |
 | Dirección IP | Limitar la frecuencia de peticiones y proteger el servicio. No se almacena de forma permanente | Nuestro servidor |
 | Datos de la suscripción (producto comprado, estado) | Gestionar la suscripción y desbloquear las funciones Premium | RevenueCat y la tienda de aplicaciones (Apple o Google) |
+| Informes de fallos (modelo de dispositivo, versión del sistema y de la app, traza técnica del error) | Detectar y corregir fallos de la aplicación. No incluyen tus comidas, fotos, peso ni datos personales | Sentry (servidores en la UE) |
 
 No hay publicidad, no vendemos datos y no te rastreamos entre aplicaciones ni sitios web.
 
@@ -30,7 +31,7 @@ La información sobre alimentación, peso y objetivos puede considerarse relativ
 
 ## 5. Transferencias internacionales
 
-Anthropic y RevenueCat pueden tratar datos fuera del Espacio Económico Europeo, en particular en Estados Unidos. Estas transferencias se amparan en las garantías previstas por el RGPD, como las cláusulas contractuales tipo.
+Anthropic, RevenueCat y Sentry pueden tratar datos fuera del Espacio Económico Europeo, en particular en Estados Unidos. Estas transferencias se amparan en las garantías previstas por el RGPD, como las cláusulas contractuales tipo.
 
 ## 6. Conservación
 

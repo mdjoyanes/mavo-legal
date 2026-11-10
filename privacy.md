@@ -21,6 +21,7 @@ Your food diary, photos, weight, steps, calorie plan, profile (sex, age, height,
 | A random installation identifier | Control free and daily analysis limits and prevent abuse | Our server |
 | IP address | Rate limiting and service protection. Not stored permanently | Our server |
 | Subscription data (product purchased, status) | Manage your subscription and unlock Premium features | RevenueCat and the app store (Apple or Google) |
+| Crash reports (device model, OS and app version, technical error trace) | Detect and fix app crashes. They do not include your meals, photos, weight or personal data | Sentry (EU servers) |
 
 There is no advertising, we do not sell data and we do not track you across apps or websites.
 
@@ -30,7 +31,7 @@ Information about food, weight and goals may be considered health-related. Befor
 
 ## 5. International transfers
 
-Anthropic and RevenueCat may process data outside the European Economic Area, in particular in the United States. These transfers rely on the safeguards provided by the GDPR, such as Standard Contractual Clauses.
+Anthropic, RevenueCat and Sentry may process data outside the European Economic Area, in particular in the United States. These transfers rely on the safeguards provided by the GDPR, such as Standard Contractual Clauses.
 
 ## 6. Retention
 
