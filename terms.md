@@ -1,6 +1,6 @@
 # Mavo Terms of Use
 
-**Last updated:** [DATE]
+**Last updated:** 10 November 2026
 
 By using Mavo you accept these terms. If you do not agree, do not use the app.
 
@@ -26,7 +26,7 @@ You must be at least 16 years old. Do not use the app for unlawful purposes, to 
 
 ## 5. Content and ownership
 
-Your photos and entries are yours. You grant us the permission needed to process them solely to provide the service. The app, its design and brand belong to [OWNER].
+Your photos and entries are yours. You grant us the permission needed to process them solely to provide the service. The app, its design and brand belong to Marc Dominguez Joyanes.
 
 ## 6. Availability and liability
 

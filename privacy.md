@@ -1,12 +1,12 @@
 # Mavo Privacy Policy
 
-**Last updated:** [DATE]
+**Last updated:** 10 November 2026
 
 Mavo is an app that lets you log what you eat with a photo and estimates calories and macronutrients. This policy explains what data is processed, why, who receives it and what rights you have.
 
 ## 1. Who is responsible
 
-[FULL NAME OR COMPANY NAME], [POSTAL ADDRESS]. Contact: mavo.soporte@gmail.com.
+Marc Dominguez Joyanes, 08225 Terrassa (Barcelona), Spain. Contact: mavo.soporte@gmail.com.
 
 ## 2. What stays on your phone
 

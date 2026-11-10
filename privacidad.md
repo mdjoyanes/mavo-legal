@@ -1,12 +1,12 @@
 # Política de privacidad de Mavo
 
-**Última actualización:** [FECHA]
+**Última actualización:** 10 de noviembre de 2026
 
 Mavo es una aplicación para registrar lo que comes con una foto y estimar calorías y macronutrientes. Esta política explica qué datos se tratan, para qué, con quién se comparten y qué derechos tienes.
 
 ## 1. Quién es el responsable
 
-[NOMBRE Y APELLIDOS O RAZÓN SOCIAL], [DIRECCIÓN POSTAL]. Contacto: mavo.soporte@gmail.com.
+Marc Dominguez Joyanes, 08225 Terrassa (Barcelona), España. Contacto: mavo.soporte@gmail.com.
 
 ## 2. Qué datos se quedan en tu móvil
 

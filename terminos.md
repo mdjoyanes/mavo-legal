@@ -1,6 +1,6 @@
 # Términos de uso de Mavo
 
-**Última actualización:** [FECHA]
+**Última actualización:** 10 de noviembre de 2026
 
 Al usar Mavo aceptas estos términos. Si no estás de acuerdo, no uses la aplicación.
 
@@ -26,7 +26,7 @@ Debes tener al menos 16 años. No uses la aplicación para fines ilegales, para 
 
 ## 5. Contenido y propiedad
 
-Tus fotos y registros son tuyos. Nos concedes el permiso necesario para procesarlos con el único fin de prestarte el servicio. La aplicación, su diseño y su marca pertenecen a [TITULAR].
+Tus fotos y registros son tuyos. Nos concedes el permiso necesario para procesarlos con el único fin de prestarte el servicio. La aplicación, su diseño y su marca pertenecen a Marc Dominguez Joyanes.
 
 ## 6. Disponibilidad y responsabilidad
 
