@@ -11,6 +11,7 @@ a{color:var(--green)}a:hover{text-decoration:none}
 .nav{display:flex;gap:6px;align-items:center;font-size:15px}
 .nav a{color:var(--muted);text-decoration:none;padding:7px 12px;border-radius:999px}
 .nav a:hover,.nav a.on{color:var(--green);background:var(--tint)}
+.langs{display:inline-flex;gap:2px;margin-left:8px;padding:3px;border:1px solid var(--line);border-radius:999px}.nav .langs a{padding:4px 9px;font-size:13px;font-weight:600}.nav .langs a.on{background:var(--green);color:#fff}.hero .intro p{margin:0 auto 6px;font-size:16px}.hero .intro p:first-child{font-size:19px}.foot a{margin:0}
 .nav .lang{border:1px solid var(--line);color:var(--ink)}
 .wrap{max-width:1040px;margin:0 auto;padding:40px 20px 80px;display:grid;grid-template-columns:230px minmax(0,1fr);gap:56px}
 .toc{position:sticky;top:84px;align-self:start;font-size:14.5px}
@@ -44,5 +45,5 @@ code{background:var(--code);padding:2px 6px;border-radius:6px;font-size:.92em}
 .card:hover{transform:translateY(-3px);border-color:var(--green)}
 .card b{display:block;font-size:20px;margin-bottom:4px}.card span{color:var(--muted);font-size:15px}
 .card .l{display:inline-block;margin-top:12px;margin-right:12px;font-size:14.5px;font-weight:600;color:var(--green)}
-@media (max-width:860px){.wrap{display:block;padding-top:28px}.toc{display:none}.nav a:not(.lang){display:none}}
+@media (max-width:860px){.wrap{display:block;padding-top:28px}.toc{display:none}.nav>a:not(.lang){display:none}}
 @media print{.top,.toc,.foot{display:none}body{background:#fff;color:#000}.wrap{display:block}}
