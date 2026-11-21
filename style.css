@@ -1,6 +1,6 @@
 
-:root{--bg:#FBF8F4;--card:#fff;--ink:#2A1D14;--muted:#6E5F54;--line:#EADFD3;--green:#B04A15;--green2:#D2692F;--tint:#FBF0E8;--code:#F5EEE6;--on:#fff}
-@media (prefers-color-scheme:dark){:root{--bg:#16100C;--card:#211913;--ink:#F4ECE4;--muted:#B2A396;--line:#3A2E25;--green:#EE9158;--green2:#EE9158;--tint:#2B1F16;--code:#2B221B;--on:#1A0E06}}
+:root{--bg:#F8FAFF;--card:#fff;--ink:#14192E;--muted:#566087;--line:#DEE4F6;--green:#2A52C9;--green2:#4A72E8;--tint:#EAF0FF;--code:#EEF1FB;--on:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#0E1220;--card:#171C2E;--ink:#ECEFFA;--muted:#A3ABC9;--line:#2A3250;--green:#7C9BFF;--green2:#7C9BFF;--tint:#1B2442;--code:#1F2640;--on:#0B1130}}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
 a{color:var(--green)}a:hover{text-decoration:none}
